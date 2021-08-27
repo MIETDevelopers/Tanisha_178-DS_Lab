@@ -1,4 +1,3 @@
-//A C Program to evaluate Postfix Expressions.                © Ishav Verma 04/July/2021
 #include<stdio.h> 
 #include<ctype.h>	
 int stack[20];  
