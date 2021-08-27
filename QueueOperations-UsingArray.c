@@ -1,4 +1,3 @@
-//A C program demonstrating queue operations using array.                      © Ishav Verma Jun/2021
 #include<stdio.h>
 #include<stdlib.h>
 
