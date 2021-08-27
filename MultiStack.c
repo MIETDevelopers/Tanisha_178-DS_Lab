@@ -1,4 +1,3 @@
-//A C program demonstrating multiple stack operations using array.                      © Ishav Verma 06/June/2021
 #include <stdio.h>
 #include <malloc.h>
 #define MAX 10
