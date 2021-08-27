@@ -1,4 +1,3 @@
-//A C program demonstrating stack operations using array.                      © Ishav Verma 27/May/2021
 #include<stdio.h>
 int stack[100],choice,n,top,i;
 void Push(void);
