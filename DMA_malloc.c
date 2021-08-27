@@ -1,4 +1,3 @@
-//A C program demonstrating use of malloc() to store and print integers.                      © Ishav Verma 09/June/2021
 #include <stdio.h>
 #include <stdlib.h>
 int main()
