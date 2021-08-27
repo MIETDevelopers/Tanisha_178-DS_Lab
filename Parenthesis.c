@@ -1,4 +1,3 @@
-//A C program to check whether a expression is correctly paranthesized or not.                  © Ishav Verma 21/June/2021
 #include<stdio.h>
 #include<stdlib.h>
 int main()
