@@ -1,4 +1,3 @@
-//A C Program to perform singly linked list operations.                © Ishav Verma 31/July/2021
 #include<stdlib.h>
 #include<stdio.h>
 
