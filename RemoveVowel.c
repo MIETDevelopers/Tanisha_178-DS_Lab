@@ -1,4 +1,3 @@
-//A C program to read whole string entered by user and to print it after removing vowels.      © Ishav Verma 14/June/2021
 #include<stdio.h>
 #include<stdlib.h>
 int main()
