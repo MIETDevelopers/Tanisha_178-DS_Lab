@@ -1,4 +1,3 @@
-//A C Program to demonstrate Stack operations using linked list.                        © Ishav Verma 03/August/2021
 #include <stdio.h>  
 #include <stdlib.h>
 
