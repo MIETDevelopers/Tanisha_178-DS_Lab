@@ -1,4 +1,3 @@
-//A C Program to perform Search, Insertion & Deletion in an array.              © Ishav Verma June/2021
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
