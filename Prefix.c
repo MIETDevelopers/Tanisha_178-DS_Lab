@@ -1,4 +1,3 @@
-//A C Program to evaluate Prefix Expressions.                © Ishav Verma 04/July/2021
 #include<stdio.h>  
 #include<conio.h>  
 #include<string.h>   
