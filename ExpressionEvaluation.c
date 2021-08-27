@@ -1,4 +1,3 @@
-//A C program to Evaluate a Pre-Defined Expression!         © Ishav Verma 22/June/2021
 #include<stdio.h>
 #include<stdlib.h>
 int a,b,c,d,e,f,result;
